@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @ElsaWu1998
-- 🌱 I’m currently learning Hadoop
-- 👀 You can contact me via WeChat: Elsawu23510
+- 👀 You can contact me via WeChat: IeshaWu23510
 
 <!---
 ElsaWu1998/ElsaWu1998 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
